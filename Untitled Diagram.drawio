@@ -1,9 +1,168 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="7FZ3N1IJiriRC-uJoYsD">
-    <mxGraphModel>
+    <mxGraphModel dx="521" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-2" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="70" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-3" value="Username" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="130" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-4" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="150" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-5" value="login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-7" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-8" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="72" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-9" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-10" value="View Listings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-11" value="Assessment Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="150" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-12" value="Performance Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="150" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-13" value="MLS tracker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="100" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-14" value="Data Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="100" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-15" value="Training Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-17" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-18" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="272" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-19" value="View Listings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-21" value="List of your listings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="117.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-22" value="List of your team&#39;s listings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-27" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-28" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="272" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-29" value="MLS tracker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-30" value="List of your listings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="117.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-31" value="Data related to your listings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-33" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-34" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="472" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-35" value="Data Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-36" value="Data from Brickz.my and other websites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-40" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-41" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="672" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-42" value="Performance Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-43" value="Data from digital transformation assessment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-45" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-46" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="472" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-47" value="Training Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-48" value="Training modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="500" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-51" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-52" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="672" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-53" value="Assessment Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-54" value="Assessment in digital transformation questions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="700" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-57" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="850" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-58" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="872" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-59" value="Profile Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="850" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-60" value="Profile details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="900" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BYLI1MVGmbxzpLf7zawD-61" value="Analyzed data from MLS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="700" width="110" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
